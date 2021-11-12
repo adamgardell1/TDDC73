@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="Button1">Continue</string>
+    <string name="Button2">Back</string>
+    <string name="Button3">Accept</string>
+    <string name="Button4">Decline</string>
+    <string name="Email">Email</string>
+</resources>
